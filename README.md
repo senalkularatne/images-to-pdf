@@ -1,6 +1,6 @@
 # Images to PDF Converter
 
-This Python script allows you to combine multiple images from a specified directory (including subdirectories) into a single PDF file. It's designed to handle images in a sequential order, making it ideal for converting comic book pages, scanned documents, or any series of images into a single PDF document.
+This Python script allows you to combine multiple images from a specified directory (including subdirectories) into a single PDF file. It's designed to handle images in a sequential order, making it ideal for converting book pages, scanned documents, or any series of images into a single PDF document.
 
 ## Table of Contents
 - [Features](#features)
